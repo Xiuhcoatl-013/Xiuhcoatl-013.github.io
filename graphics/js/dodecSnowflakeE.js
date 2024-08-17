@@ -1,9 +1,12 @@
 /***********
- * dodecSpongeD.js
+ * dodecSnowflakeE.js
  * based on posSnowflakeD.js
- * M. Laszlo
- * May 2020
+ * 
+ * Xiuhcoatl XIII
+ * August 2024
  ***********/
+
+
 
 /**
  A generalization of Menger sponge (page 56 of Alt.Fractals).

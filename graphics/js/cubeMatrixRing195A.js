@@ -1,5 +1,5 @@
 /***********
- * cubeMatrixRing195.js
+ * cubeMatrixRing195A.js
  * 
  * Xiuhcoatl XIII
  * August 2024
