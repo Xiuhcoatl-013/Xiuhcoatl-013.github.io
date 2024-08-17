@@ -1,9 +1,12 @@
 /***********
  * sphereOfStarburstsA.js
+ * 
  * Starbursts placed on a sphere
  * Xiuhcoatl XIII
- * August 2014
+ * August 2024
  ***********/
+
+
 
 let camera, scene, renderer;
 let cameraControls;
