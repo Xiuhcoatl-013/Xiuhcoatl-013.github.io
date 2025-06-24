@@ -1,4 +1,4 @@
-var objPath = './013_PolyWireFeamleFront.obj';
+var objPath = './013_Female_Wire.obj';
 var scale = 2.5;
 var INF = 100000000;
 
