@@ -1,6 +1,6 @@
 # OBJ Viewer
 
-Online demo: [https://github.com/Xiuhcoatl-013/Xiuhcoatl-013.github.io/tree/master/OBJViewer](https://github.com/Xiuhcoatl-013/Xiuhcoatl-013.github.io/tree/master/OBJViewer). 
+Online demo: [https://Xiuhcoatl-013.github.io/OBJViewer](https://Xiuhcoatl-013.github.io/OBJViewer). 
 
 This project is based on [three.js](https://github.com/mrdoob/three.js)
 
